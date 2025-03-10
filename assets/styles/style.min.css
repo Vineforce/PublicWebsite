@@ -284,7 +284,7 @@ label {
 
 .tab .active a {
     background: #ffe7bb;
-    color: #024430
+    color: #545454
 }
 
 .tabMarketing .active {
@@ -317,7 +317,7 @@ label {
     }
 
 .tabLastestArticles .active a {
-    background: #024430;
+    background: #5e5e5e;
     color: #ffe7bb
 }
 
@@ -513,7 +513,7 @@ label {
     border: 1px solid #cde2e7;
     border-radius: 16px;
     box-shadow: 9px 11px 23px rgba(6,61,79,.12);
-    color: #024430;
+    color: #676767;
     cursor: pointer;
     display: block;
     font-size: 16px;
@@ -597,7 +597,7 @@ label {
     border-bottom-right-radius: 16px;
     border-top: 0;
     box-shadow: 9px 11px 23px rgba(6,61,79,.12);
-    color: #212529;
+    color: #676767;
     display: none;
     font-size: 16px;
     line-height: 24px;
